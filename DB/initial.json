@@ -1,0 +1,21 @@
+{
+	"RequestItems":{
+	"tracking":[
+			{
+			"PutRequest":{
+				"Item":{
+					"id":{
+						"S":"0"
+					},
+					"name":{
+						"S":"home"
+					},
+					"date":{
+					"S":"2021-01-19 17:56:11.847329"
+					}
+				}
+			}
+		}
+	]
+}
+}
